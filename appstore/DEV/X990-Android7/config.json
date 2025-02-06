@@ -1,0 +1,76 @@
+{
+  "appsConfig": [
+   {
+      "appName": "installBh-x990Build_250103_03.02.01_V2_uat.zip",
+      "packageName": "com.bhic.verifone",
+      "appVersion": "03.02.01",
+      "revisionId":"250103",
+      "isMandatoy": true,
+      "availabilityType": 0,
+      "tids": [],
+      "isDelete": false,
+      "deleteType": 0,
+      "deleteTids": [],
+      "modelName": [
+        "X990"
+      ],
+      "androidVersion": [
+        "7",
+        "10"
+      ],
+      "autoInstall":true,
+      "dependency":[]
+    },  {
+      "appName": "A910S_2_Customer_Resource_PayDroid_10.0.0_Sagittarius_customer_res_BonusHub_V1.00_20241204_OTA.zip",
+      "packageName": "com.firmware.pax",
+      "appVersion": "20241204",
+      "revisionId":"",
+      "isMandatoy": true,
+      "installType": 1,
+      "availabilityType": 0,
+      "tids": [],
+      "isDelete": false,
+      "deleteType": 0,
+      "deleteTids": [],
+      "modelName": [
+        "X990"
+      ],
+      "androidVersion": [
+        "7",
+        "10"
+      ],
+      "autoInstall":true,
+      "dependency":[]
+    }
+
+  ],
+  "whiteListPackageName": "",
+  "imageConfig": {
+    "config": [
+      {
+        "startDate": "2024-01-01",
+        "endDate": "2026-01-01",
+        "imageFileName": "digipos.bmp",
+        "txnType": "all"
+      },
+      {
+        "startDate": "2024-01-01",
+        "endDate": "2026-01-01",
+        "imageFileName": "scanMe.png",
+        "txnType": "digitalChargeSlip"
+      },
+      {
+        "startDate": "2024-01-01",
+        "endDate": "2026-01-01",
+        "imageFileName": "lottieAnimTxn.json",
+        "txnType": "lottieAnimTxn"
+      }
+    ],
+    "timeStamp": "5"
+  },
+"pfxConfig":{
+"pfxUrl":"BHClient.p12",
+"timeStamp":"1"
+}
+}
+
