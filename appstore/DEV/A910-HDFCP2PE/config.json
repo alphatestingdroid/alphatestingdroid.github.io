@@ -1,10 +1,10 @@
 {
   "appsConfig": [
-   {
+    {
       "appName": "installBh-x990Build_250103_03.02.01_V2_uat.zip",
       "packageName": "com.bhic.verifone",
       "appVersion": "03.02.01",
-      "revisionId":"250103",
+      "revisionId": "250103",
       "isMandatoy": true,
       "availabilityType": 0,
       "tids": [],
@@ -18,13 +18,14 @@
         "7",
         "10"
       ],
-      "autoInstall":true,
-      "dependency":[]
-    },  {
+      "autoInstall": true,
+      "dependency": []
+    },
+    {
       "appName": "A910S_2_Customer_Resource_PayDroid_10.0.0_Sagittarius_customer_res_BonusHub_V1.00_20241204_OTA.zip",
       "packageName": "com.firmware.pax",
       "appVersion": "20241204",
-      "revisionId":"",
+      "revisionId": "",
       "isMandatoy": true,
       "installType": 1,
       "availabilityType": 0,
@@ -39,10 +40,9 @@
         "7",
         "10"
       ],
-      "autoInstall":true,
-      "dependency":[]
+      "autoInstall": true,
+      "dependency": []
     }
-
   ],
   "whiteListPackageName": "",
   "imageConfig": {
@@ -68,9 +68,8 @@
     ],
     "timeStamp": "5"
   },
-"pfxConfig":{
-"pfxUrl":"BHClient.p12",
-"timeStamp":"1"
+  "pfxConfig": {
+    "pfxUrl": "BHClient.p12",
+    "timeStamp": "1"
+  }
 }
-}
-
