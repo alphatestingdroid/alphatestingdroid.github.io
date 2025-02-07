@@ -15,7 +15,8 @@
         "A910"
       ],
       "androidVersion": [
-        "P2PE"
+        "7",
+        "10"
       ],
       "autoInstall":true,
       "dependency":[]
@@ -32,11 +33,11 @@
       "deleteType": 0,
       "deleteTids": [],
       "modelName": [
-        "PAX"
+        "A910"
       ],
       "androidVersion": [
-        "A910",
-        "A910S"
+        "7",
+        "10"
       ],
       "autoInstall":true,
       "dependency":[]
