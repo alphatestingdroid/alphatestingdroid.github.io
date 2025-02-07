@@ -12,11 +12,10 @@
       "deleteType": 0,
       "deleteTids": [],
       "modelName": [
-        "PAX"
+        "A910"
       ],
       "androidVersion": [
-        "A910",
-        "A910S"
+        "P2PE"
       ],
       "autoInstall":true,
       "dependency":[]
