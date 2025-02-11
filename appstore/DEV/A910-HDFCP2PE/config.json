@@ -27,7 +27,7 @@
       "appVersion": "20241204",
       "revisionId": "",
       "isMandatoy": true,
-      "installType": 1,
+      "installType": 2,
       "availabilityType": 0,
       "tids": [],
       "isDelete": false,
