@@ -42,6 +42,28 @@
       ],
       "autoInstall": true,
       "dependency": []
+    },
+    {
+      "appName": "bonushub.png",
+      "packageName": "com.bonushub.logo",
+      "appVersion": "20250214",
+      "revisionId": "",
+      "isMandatoy": true,
+      "installType": 1,
+      "availabilityType": 0,
+      "tids": [],
+      "isDelete": false,
+      "deleteType": 0,
+      "deleteTids": [],
+      "modelName": [
+        "A910"
+      ],
+      "androidVersion": [
+        "7",
+        "10"
+      ],
+      "autoInstall": true,
+      "dependency": []
     }
   ],
   "whiteListPackageName": "",
