@@ -44,9 +44,10 @@
       "dependency": []
     },
     {
-      "appName": "bonushub.png",
+      "appName": "bonushub.zip",
       "packageName": "com.bonushub.logo",
       "appVersion": "20250215",
+      "fileExtension": ".png",
       "revisionId": "",
       "isMandatoy": true,
       "installType": 1,
