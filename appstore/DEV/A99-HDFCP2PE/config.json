@@ -11,13 +11,8 @@
       "isDelete": false,
       "deleteType": 0,
       "deleteTids": [],
-      "modelName": [
-        "PAX"
-      ],
-      "androidVersion": [
-        "A910",
-        "A910S"
-      ],
+      "modelName": [],
+      "androidVersion": [],
       "autoInstall":true,
       "dependency":[]
     },  {
@@ -32,13 +27,8 @@
       "isDelete": false,
       "deleteType": 0,
       "deleteTids": [],
-      "modelName": [
-        "PAX"
-      ],
-      "androidVersion": [
-        "A910",
-        "A910S"
-      ],
+      "modelName": [],
+      "androidVersion": [],
       "autoInstall":true,
       "dependency":[]
     }
